@@ -1,9 +1,4 @@
 # library-management-system
-Here is a polished, humanized version of your README file. I have removed the em dashes, softened the technical jargon into a more conversational and engaging tone, and used clean formatting to make it highly readable and professional.
-
----
-
-# 📚 Library Management System
 
 Welcome to the Library Management System! This is a Python-based command-line application designed to help librarians seamlessly manage books and handle everyday library tasks. I originally built this as my Week 1 internship assignment.
 
